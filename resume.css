@@ -1,0 +1,212 @@
+.res-whole {
+    background: rgb(233, 155, 135);
+    min-height: 88vh;
+}
+
+.edu-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: darkslategrey;
+    padding-top: 1vh;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-top: 5px solid indianred;
+    border-bottom: 5px solid indianred;
+}
+
+.tufts-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.tufts-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.tufts-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.noho-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.noho-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.noho-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.work-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: darkslategrey;
+    padding-top: 1vh;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-top: 5px solid indianred;
+    border-bottom: 5px solid indianred;
+}
+
+.getty-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.getty-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.getty-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.boba-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.boba-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.boba-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.classes-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: darkslategrey;
+    padding-top: 1vh;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-top: 5px solid indianred;
+    border-bottom: 5px solid indianred;
+}
+
+.cs-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.cs-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.cs-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.art-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.art-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.art-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.other-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.other-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: indianred; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.other-info-div {
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.skills-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: darkslategrey;
+    padding-top: 1vh;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-top: 5px solid indianred;
+    border-bottom: 5px solid indianred;
+}
+
+.skillsList-title-sec {
+    background: rgb(250, 226, 198);
+}
+
+.skills-info-div {
+    padding-top:1vh;
+    font-size: 20px;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}

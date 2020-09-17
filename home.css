@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    display: flex;
+    background: darkslategrey;
+    height: 12vh;
+    align-items: center;
+}
+
+.web-title, .nav-links {
+    display: flex;
+}
+
+.web-title {
+    flex: 1;
+    color: rgb(156, 189, 189);
+    font-size: 19px;
+    margin-left: 2%;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+}
+
+nav {
+    flex: 1;
+}
+
+.nav-links {
+    justify-content: space-around;
+    list-style: none;
+    margin-right: 3%;
+}
+
+.nav-link {
+    color: rgb(233, 155, 135);
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 18px;
+    justify-content: flex-end;
+    padding-left: 10px;
+}
+
+.nav-link:hover {
+    color: indianred;
+}
+
+.whole {
+    background: rgb(233, 155, 135);
+    min-height: 88vh;
+}
+
+.hi {
+    text-align: center;
+}
+
+.hello-text {
+    color: darkslategrey;
+    font-size: 100px;
+    padding-top: 33vh;
+    animation: fade-out 2s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+.info {
+    text-align: center;
+}
+
+.name-title {
+    font-size: 110px;
+    color: rgb(250, 226, 198);
+    margin-top: -25vh;
+    opacity: 0;
+    animation: fade-in 2s;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+}
+
+.subtitle {
+    font-size: 40px;
+    color: indianred;
+    opacity: 0;
+    animation: fade-in 2s;
+    animation-delay: 4s;
+    animation-fill-mode: forwards;
+
+}
+
+@keyframes fade-out {
+    from{
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-in {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

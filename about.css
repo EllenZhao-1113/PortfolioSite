@@ -1,0 +1,50 @@
+.entire {
+    background: rgb(156, 189, 189);
+    min-height: 88vh;
+    align-items: center;
+}
+
+.about-title {
+    text-align: center;
+}
+
+.about-text {
+    color: indianred;
+    font-size: 65px;
+    padding-top: 3vh;
+    text-shadow: 3px 3px rgb(250, 226, 198);
+}
+
+.about-info {
+    display: flex;
+    align-items: center;
+    padding-top: 8vh;
+}
+
+.profile-image {
+    flex: 1;
+    margin-left: 5%;
+}
+
+.about-para {
+    flex: 1.25;
+}
+
+.about-words{
+    padding-left: 5%;
+    margin-right: 30%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size: 23px;
+    line-height: 1.5;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 50vh;
+}
+
